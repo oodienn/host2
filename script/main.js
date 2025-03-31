@@ -35,7 +35,7 @@ const animationTimeline = () => {
 
     const ideaTextTrans = {
         opacity: 0,
-        y: -20,
+        y: 5,
         rotationX: 5,
         skewX: "15deg"
     }
